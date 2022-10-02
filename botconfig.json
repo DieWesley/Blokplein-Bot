@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "databaseURL": "mongodb://blokplein:Blokpleinroleplay123@ac-ehmoeet-shard-00-00.waylrxj.mongodb.net:27017,ac-ehmoeet-shard-00-01.waylrxj.mongodb.net:27017,ac-ehmoeet-shard-00-02.waylrxj.mongodb.net:27017/?ssl=true&replicaSet=atlas-fm01g6-shard-0&authSource=admin&retryWrites=true&w=majority",
+        "prefix": "!",
+        "footer": "© Blokplein",
+        "servernaam": "BTS",
+        "ticketName": "ticket-"
+    },
+
+    "channels": {
+        "logs": "1026243874487803956"
+    },
+
+    "colors": {
+        "error": "#ffba00",
+        "succes": "#ffba00",
+        "normal": "#ffba00"
+    },
+
+    "rollen": {
+        "supportRole": "995804637678555232"
+    },
+
+    "categorie": {
+        "support": "Service & Hulp"
+    }
+}
